@@ -2,131 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b8d0374-305b-4e27-bf4c-00c65482a8bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/rSettings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/tbilisi_air_pollution.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tbilisi_air_pollution.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tbilisi_air_pollution.py" beforeDir="false" afterPath="$PROJECT_DIR$/tbilisi_air_pollution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2016-1.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2016-1.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2016-10.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2016-10.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2016-11.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2016-11.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2016-12.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2016-12.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2016-2.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2016-2.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2016-3.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2016-3.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2016-4.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2016-4.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2016-5.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2016-5.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2016-6.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2016-6.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2016-7.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2016-7.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2016-8.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2016-8.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2016-9.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2016-9.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2017-1.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2017-1.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2017-10.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2017-10.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2017-11.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2017-11.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2017-12.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2017-12.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2017-2.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2017-2.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2017-3.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2017-3.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2017-4.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2017-4.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2017-5.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2017-5.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2017-6.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2017-6.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2017-7.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2017-7.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2017-8.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2017-8.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2017-9.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2017-9.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2018-1.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2018-1.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2018-10.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2018-10.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2018-11.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2018-11.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2018-12.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2018-12.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2018-2.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2018-2.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2018-3.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2018-3.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2018-4.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2018-4.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2018-5.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2018-5.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2018-6.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2018-6.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2018-7.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2018-7.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2018-8.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2018-8.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2018-9.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2018-9.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2019-1.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2019-1.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2019-10.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2019-10.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2019-11.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2019-11.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2019-12.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2019-12.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2019-2.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2019-2.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2019-3.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2019-3.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2019-4.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2019-4.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2019-5.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2019-5.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2019-6.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2019-6.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2019-7.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2019-7.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2019-8.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2019-8.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data/2019-9.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xls_data/2019-9.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (10).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (11).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (12).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (13).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (14).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (15).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (16).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (17).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (18).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (19).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (2).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (20).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (21).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (22).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (23).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (24).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (25).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (26).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (27).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (28).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (29).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (3).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (30).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (31).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (32).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (33).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (34).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (35).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (36).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (37).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (38).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (39).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (4).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (40).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (41).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (42).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (43).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (44).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (45).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (46).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (47).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (48).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (49).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (5).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (50).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (51).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (52).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (53).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (54).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (55).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (56).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (57).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (58).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (59).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (6).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (60).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (61).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (62).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (63).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (64).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (65).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (66).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (67).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (68).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (69).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (7).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (70).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (71).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (72).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (73).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (8).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xls_data_2/export (9).xlsx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,13 +101,13 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1587910059085" />
-    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1587909988207">
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1588619328665">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1587909988207" />
-    <state x="282" y="67" width="700" height="530" key="recent.locations.popup" timestamp="1587907198805">
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1588619328665" />
+    <state x="282" y="67" width="700" height="530" key="recent.locations.popup" timestamp="1588612362648">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="282" y="67" width="700" height="530" key="recent.locations.popup/0.0.1280.680@0.0.1280.680" timestamp="1587907198805" />
+    <state x="282" y="67" width="700" height="530" key="recent.locations.popup/0.0.1280.680@0.0.1280.680" timestamp="1588612362648" />
   </component>
 </project>
